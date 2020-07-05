@@ -1,0 +1,27 @@
+{
+  "name": "audiodb",
+  "version": "0.0.1",
+  "description": "js / ts wrapper for audiodb.com",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^3.9.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alecsavvy/audiodb.js.git"
+  },
+  "author": "alecsavvy@outlook.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alecsavvy/audiodb.js/issues"
+  },
+  "homepage": "https://github.com/alecsavvy/audiodb.js#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
